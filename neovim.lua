@@ -17,9 +17,9 @@ return {
 					surface1 = "#362C38",
 					surface2 = "#362C38",
 
-					overlay0 = "#C48A43",
-					overlay1 = "#C48A43",
-					overlay2 = "#C48A43",
+					overlay0 = "#875E2E",
+					overlay1 = "#875E2E",
+					overlay2 = "#875E2E",
 
 					text = "#C2AE93",
 					subtext0 = "#C2AE93",
@@ -40,8 +40,8 @@ return {
 					blue = "#5C84A3",
 					lavender = "#5C84A3",
 
-					rosewater = "#D64A29",
-					flamingo = "#D64A29",
+					rosewater = "#D47B36",
+					flamingo = "#D47B36",
 
 					pink = "#7C5796",
 					mauve = "#7C5796",

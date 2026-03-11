@@ -4,11 +4,11 @@ foreground = "#C2AE93"
 
 [colors.cursor]
 text = "#100C10"
-cursor = "#C49A36"
+cursor = "#DCAE3D"
 
 [colors.selection]
 background = "#362C38"
-text = "#C2AE93"
+text = "CellForeground"
 
 [colors.normal]
 black = "#362C38"
