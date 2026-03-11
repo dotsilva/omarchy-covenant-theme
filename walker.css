@@ -1,10 +1,10 @@
-@define-color selected-text #d2d2d2;
-@define-color text #d2d2d2;
-@define-color base #151515;
-@define-color border #BAA0E8;
-@define-color foreground #d2d2d2;
-@define-color background #151515;
-@define-color hover #3E4452;
+@define-color selected-text #C2AE93;
+@define-color text #C2AE93;
+@define-color base #080608;
+@define-color border #DCAE3D;
+@define-color foreground #C2AE93;
+@define-color background #080608;
+@define-color hover #362C38;
 
 window {
   /* keep default size, no background needed here */

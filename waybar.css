@@ -1,5 +1,5 @@
-@define-color background #151515;
-@define-color foreground #d2d2d2;
+@define-color background #080608;
+@define-color foreground #C2AE93;
 
 /* Enforce font styling safely over local wildcard rules */
 window#waybar * {
@@ -19,32 +19,32 @@ window#waybar #workspaces button.empty {
 #custom-omarchy,
 #custom-screenrecording-indicator,
 #custom-update {
-  color: #BAA0E8;
+  color: #DCAE3D;
 }
 
 #tray,
 #custom-expand-icon {
-  color: #d2d2d2;
+  color: #C2AE93;
 }
 
 #bluetooth,
 #network {
-  color: #87E58E;
+  color: #729B59;
 }
 
 #clock {
-  color: #d2d2d2;
+  color: #C2AE93;
 }
 
 /* Alert States */
 #custom-screenrecording-indicator.active,
 #custom-voxtype.recording {
-  color: #DD6E6B;
+  color: #B83E46;
 }
 
 /* Tooltips */
 tooltip {
-  background-color: #151515;
-  border: 3px solid #BAA0E8;
+  background-color: #080608;
+  border: 3px solid #DCAE3D;
   font-weight: bold;
 }

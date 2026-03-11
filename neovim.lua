@@ -9,42 +9,42 @@ return {
 			term_colors = false,
 			color_overrides = {
 				mocha = {
-					base = "#100C10",
-					mantle = "#100C10",
-					crust = "#100C10",
+					base = "#080608",
+					mantle = "#080608",
+					crust = "#080608",
 
 					surface0 = "#362C38",
 					surface1 = "#362C38",
 					surface2 = "#362C38",
 
-					overlay0 = "#6B5645",
-					overlay1 = "#6B5645",
-					overlay2 = "#6B5645",
+					overlay0 = "#7A624D",
+					overlay1 = "#7A624D",
+					overlay2 = "#7A624D",
 
 					text = "#C2AE93",
 					subtext0 = "#C2AE93",
 					subtext1 = "#C2AE93",
 
-					red = "#A33E45",
-					maroon = "#A33E45",
+					red = "#B83E46",
+					maroon = "#B83E46",
 
-					peach = "#C49A36",
-					yellow = "#C49A36",
+					peach = "#DCAE3D",
+					yellow = "#DCAE3D",
 
-					green = "#698A55",
+					green = "#729B59",
 
-					teal = "#3F938B",
-					sky = "#3F938B",
+					teal = "#48A89F",
+					sky = "#48A89F",
 
-					sapphire = "#51738F",
-					blue = "#51738F",
-					lavender = "#51738F",
+					sapphire = "#5C84A3",
+					blue = "#5C84A3",
+					lavender = "#5C84A3",
 
-					rosewater = "#BE482B",
-					flamingo = "#BE482B",
+					rosewater = "#D64A29",
+					flamingo = "#D64A29",
 
-					pink = "#735687",
-					mauve = "#735687",
+					pink = "#7C5796",
+					mauve = "#7C5796",
 				},
 			},
 			custom_highlights = function(c)

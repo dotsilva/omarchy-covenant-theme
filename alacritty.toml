@@ -1,5 +1,5 @@
 [colors.primary]
-background = "#100C10"
+background = "#080608"
 foreground = "#C2AE93"
 
 [colors.cursor]
@@ -12,20 +12,20 @@ text = "#C2AE93"
 
 [colors.normal]
 black = "#362C38"
-red = "#A33E45"
-green = "#698A55"
-yellow = "#C49A36"
-blue = "#51738F"
-magenta = "#735687"
-cyan = "#3F938B"
+red = "#B83E46"
+green = "#729B59"
+yellow = "#DCAE3D"
+blue = "#5C84A3"
+magenta = "#7C5796"
+cyan = "#48A89F"
 white = "#C2AE93"
 
 [colors.bright]
 black = "#362C38"
-red = "#A33E45"
-green = "#698A55"
-yellow = "#C49A36"
-blue = "#51738F"
-magenta = "#735687"
-cyan = "#3F938B"
+red = "#B83E46"
+green = "#729B59"
+yellow = "#DCAE3D"
+blue = "#5C84A3"
+magenta = "#7C5796"
+cyan = "#48A89F"
 white = "#C2AE93"
