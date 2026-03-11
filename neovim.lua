@@ -70,8 +70,9 @@ return {
 					["@punctuation.delimiter"] = { fg = c.flamingo },
 
 					-- Snacks Indent Overrides
-					SnacksIndentChunk = { fg = c.surface1, nocombine = true },
+					SnacksIndent = { fg = c.surface0, nocombine = true },
 					SnacksIndentScope = { fg = c.overlay2, nocombine = true },
+					SnacksIndentChunk = { fg = c.overlay2, nocombine = true },
 				}
 			end,
 		},
@@ -86,7 +87,7 @@ return {
 					enabled = false,
 				},
 				scope = {
-					enabled = true,
+					enabled = false,
 					char = "│",
 					hl = "SnacksIndentScope",
 				},
