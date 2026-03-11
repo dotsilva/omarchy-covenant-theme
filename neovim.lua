@@ -17,9 +17,9 @@ return {
 					surface1 = "#362C38",
 					surface2 = "#362C38",
 
-					overlay0 = "#7A624D",
-					overlay1 = "#7A624D",
-					overlay2 = "#7A624D",
+					overlay0 = "#C48A43",
+					overlay1 = "#C48A43",
+					overlay2 = "#C48A43",
 
 					text = "#C2AE93",
 					subtext0 = "#C2AE93",
@@ -70,8 +70,8 @@ return {
 					["@punctuation.delimiter"] = { fg = c.flamingo },
 
 					-- Snacks Indent Overrides
-					SnacksIndentChunk = { fg = c.surface0, nocombine = true },
-					SnacksIndentScope = { fg = c.flamingo, nocombine = true },
+					SnacksIndentChunk = { fg = c.surface1, nocombine = true },
+					SnacksIndentScope = { fg = c.overlay2, nocombine = true },
 				}
 			end,
 		},
