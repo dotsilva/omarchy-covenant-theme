@@ -12,7 +12,14 @@ window#osd {
   border-width: 3px;
 }
 
+
+
+/* this isnt supported yet
+ * but maybe it will in the futury
+ * so i am leaving it here in the hope of a future update */
+
 /* 2. Muted State (Red = Stop/Alarm) */
+/*
 window#osd.muted {
   border-color: #B83E46;
 }
@@ -25,3 +32,4 @@ window#osd.muted image {
 window#osd.muted progress {
   background-color: #B83E46;
 }
+*/
