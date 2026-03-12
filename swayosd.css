@@ -5,17 +5,23 @@
 @define-color image #6C9FBF;
 @define-color progress #40BE96;
 
-/* 🔴 Overrides for Muted State (Red = Stop/Alarm) */
-/* These higher-specificity selectors automatically override the base style.css */
-window.muted {
+/* --- OVERRIDES: Specificity Hacks --- */
+
+/* 1. Force 3px border (Outranks the generic 'window' tag in style.css) */
+window#osd {
+  border-width: 3px;
+}
+
+/* 2. Muted State (Red = Stop/Alarm) */
+window#osd.muted {
   border-color: #B83E46;
 }
 
-window.muted label,
-window.muted image {
+window#osd.muted label,
+window#osd.muted image {
   color: #B83E46;
 }
 
-window.muted progress {
+window#osd.muted progress {
   background-color: #B83E46;
 }
