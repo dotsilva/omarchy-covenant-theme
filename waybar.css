@@ -6,12 +6,12 @@
 @define-color blue #6C9FBF;
 @define-color cyan #40BE96;
 @define-color black #484848;
-@define-color white #C2AE93
+@define-color white #C2AE93;
 
 window#waybar * {
   font-weight: bold;
   font-size: 14px;
-};
+}
 
 window#waybar #workspaces button.empty { opacity: 0.2; }
 
