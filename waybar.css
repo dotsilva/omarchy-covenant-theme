@@ -17,7 +17,7 @@ window#waybar #workspaces button.empty { opacity: 0.2; }
 
 window#waybar #custom-omarchy { color: @blue;}
 window#waybar #clock { color: @white;}
-window#waybar #custom-expand-icon,
+window#waybar #custom-expand-icon { color: @cyan;}
 window#waybar #tray { color: @cyan;}
 window#waybar #cpu { color: @blue;}
 window#waybar #custom-update {color: @cyan;}
