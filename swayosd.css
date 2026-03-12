@@ -1,9 +1,9 @@
 /* Base Variables (Cyan active state) */
 @define-color background-color #0C0C0C;
-@define-color border-color #40BE96;
-@define-color label #40BE96;
+@define-color border-color #3AAB87;
+@define-color label #3AAB87;
 @define-color image #6C9FBF;
-@define-color progress #40BE96;
+@define-color progress #3AAB87;
 
 /* --- OVERRIDES: Specificity Hacks --- */
 
