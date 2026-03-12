@@ -118,6 +118,12 @@ return {
 					["@comment.todo"] = { fg = c.base, bg = c.yellow, bold = true },
 					["@comment.warning"] = { fg = c.base, bg = c.yellow, bold = true },
 					["@comment.error"] = { fg = c.base, bg = c.red, bold = true },
+					-- Fix Bash Built-ins (echo, local, set) leaking Red
+					["@keyword.builtin"] = { fg = c.blue, bold = true },
+					["@function.builtin.bash"] = { fg = c.blue, bold = true },
+
+					-- Fix HTML/ERB Attributes (class=) leaking Yellow
+					["@attribute"] = { fg = c.text, italic = true },
 
 					-- Standard Data (Foreground)
 					["@variable"] = { fg = c.text },
