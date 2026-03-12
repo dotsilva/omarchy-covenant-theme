@@ -28,9 +28,9 @@ return {
 					green = "#838F46",
 					teal = "#3AAB87",
 					sky = "#3AAB87",
+					lavender = "#6C9FBF",
 					sapphire = "#6C9FBF",
 					blue = "#6C9FBF",
-					lavender = "#6C9FBF",
 					rosewater = "#8B476D",
 					flamingo = "#8B476D",
 					pink = "#8B476D",
@@ -94,12 +94,6 @@ return {
 					FlashLabel = { fg = c.base, bg = c.teal, bold = true },
 					FlashMatch = { fg = c.text, bg = c.surface0 },
 					FlashCurrent = { fg = c.base, bg = c.teal, bold = true },
-
-					-- Force all links/URLs to Cyan (Active Interaction)
-					["@text.uri"] = { fg = c.teal, underline = true },
-					["@string.special.url"] = { fg = c.teal, underline = true },
-					underlined = { fg = c.teal, underline = true },
-					["@text.reference"] = { fg = c.teal, bold = true },
 
 					-- Magenta (Structural Logic, Brackets & Punctuation)
 					["@punctuation"] = { fg = c.mauve },
