@@ -1,5 +1,21 @@
+/* Base Variables (Cyan active state) */
 @define-color background-color #0C0C0C;
 @define-color border-color #40BE96;
 @define-color label #40BE96;
-@define-color image #40BE96;
+@define-color image #6C9FBF;
 @define-color progress #40BE96;
+
+/* 🔴 Overrides for Muted State (Red = Stop/Alarm) */
+/* These higher-specificity selectors automatically override the base style.css */
+window.muted {
+  border-color: #B83E46;
+}
+
+window.muted label,
+window.muted image {
+  color: #B83E46;
+}
+
+window.muted progress {
+  background-color: #B83E46;
+}
