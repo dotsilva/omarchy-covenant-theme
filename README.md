@@ -1,9 +1,10 @@
 
 # diatheke
 
-*(gr. διαθήκης: covenant)*
-an opionionated omarchy theme featuring
-**Bible verses as background**
+## (gr. διαθήκης: covenant)*
+
+an opionionated omarchy theme featuring:
+**Bible verses as background**,
 **biblically inspired colors** and
 **an absolute desire for logic and consistency**.
 
