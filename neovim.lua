@@ -95,6 +95,11 @@ return {
 					FlashMatch = { fg = c.text, bg = c.surface0 },
 					FlashCurrent = { fg = c.base, bg = c.teal, bold = true },
 
+					-- Force all links/URLs to Cyan (Active Interaction)
+					["@text.uri"] = { fg = c.teal, underline = true }, -- Standard Treesitter
+					["@string.special.url"] = { fg = c.teal, underline = true }, -- LSP/Modern Treesitter
+					underlined = { fg = c.teal, underline = true }, -- Legacy fallback for older plugins
+
 					-- Magenta (Structural Logic, Brackets & Punctuation)
 					["@punctuation"] = { fg = c.mauve },
 					["@punctuation.bracket"] = { fg = c.mauve },
