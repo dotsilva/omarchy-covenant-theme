@@ -43,11 +43,15 @@ return {
 					Cursor = { fg = c.base, bg = c.teal },
 					lCursor = { fg = c.base, bg = c.teal },
 					CursorIM = { fg = c.base, bg = c.teal },
-					Visual = { bg = c.surface0 },
-					CursorLine = { bg = c.surface0 },
-					CursorLineNr = { fg = c.teal, bold = true },
 					Search = { fg = c.base, bg = c.teal },
 					IncSearch = { fg = c.base, bg = c.teal },
+
+					-- Visual Selection: Cyan background, Terminal Base text (Active/Ephemeral)
+					Visual = { bg = c.teal, fg = c.base, bold = true },
+
+					-- Cursor Line: Subtle structural underline so Treesitter syntax highlighting survives
+					CursorLine = { bg = "NONE", underdouble = true, sp = c.surface1 },
+					CursorLineNr = { fg = c.teal, bold = true }, -- Cyan anchor for the eyes
 
 					-- Popup Menus (Autocomplete for Cmdline & Code)
 					Pmenu = { fg = c.text, bg = c.base }, -- Standard text on dark background
