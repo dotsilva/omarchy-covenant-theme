@@ -1,0 +1,71 @@
+# crucifixion - matthew 27:45
+crucifixion_1 = #484848  # rgb(72, 72, 72)
+crucifixion_2 = #3C3C3C  # rgb(60, 60, 60)
+crucifixion_3 = #303030  # rgb(48, 48, 48)
+crucifixion_4 = #242424  # rgb(36, 36, 36)
+crucifixion_5 = #181818  # rgb(24, 24, 24)
+crucifixion_6 = #0C0C0C  # rgb(12, 12, 12)
+crucifixion_7 = #000000  # rgb(0, 0, 0)
+
+# supper_wine - mathew 26:27-29
+poured_wine_1 = #B83E46  # rgb(184, 62, 70)
+poured_wine_2 = #A33E45  # rgb(163, 62, 69)
+poured_wine_3 = #8E3E43  # rgb(142, 62, 67)
+poured_wine_4 = #7A3D40  # rgb(122, 61, 64)
+poured_wine_5 = #653C3E  # rgb(101, 60, 62)
+poured_wine_6 = #503A3B  # rgb(80, 58, 59)
+poured_wine_7 = #3B3939  # rgb(59, 57, 57)
+
+# gethsemane_oil - exodus 27:20; Mathew 26:36
+gethsemane_oil_1 = #838F46  # rgb(131, 143, 70)
+gethsemane_oil_2 = #737E3D  # rgb(115, 126, 61)
+gethsemane_oil_3 = #636C34  # rgb(99, 108, 52)
+gethsemane_oil_4 = #535B2C  # rgb(83, 91, 44)
+gethsemane_oil_5 = #434A23  # rgb(67, 74, 35)
+gethsemane_oil_6 = #33391A  # rgb(51, 57, 26)
+gethsemane_oil_7 = #232712  # rgb(35, 39, 18)
+
+# royal_sash - revelation 1:13
+royal_sash_1 = #DCAE3D  # rgb(220, 174, 61)
+royal_sash_2 = #C49A36  # rgb(196, 154, 54)
+royal_sash_3 = #AC862F  # rgb(172, 134, 47)
+royal_sash_4 = #947228  # rgb(148, 114, 40)
+royal_sash_5 = #785C27  # rgb(120, 92, 39)
+royal_sash_6 = #5B4722  # rgb(91, 71, 34)
+royal_sash_7 = #3F331E  # rgb(63, 51, 30)
+
+# morning_of_ressurection - mark 16:2
+resurrection_morning_1 = #6C9FBF  # rgb(108, 159, 191)
+resurrection_morning_2 = #618FAC  # rgb(97, 143, 172)
+resurrection_morning_3 = #567F99  # rgb(86, 127, 153)
+resurrection_morning_4 = #4B6F86  # rgb(75, 111, 134)
+resurrection_morning_5 = #405F73  # rgb(64, 95, 115)
+resurrection_morning_6 = #354F60  # rgb(53, 79, 96)
+resurrection_morning_7 = #2A3F4D  # rgb(42, 63, 77)
+
+# thorned_veil - exodus 26:31; Mathew 27:51
+thorned_veil_1 = #8B476D  # rgb(139, 71, 109)
+thorned_veil_2 = #7D4062  # rgb(125, 64, 98)
+thorned_veil_3 = #6F3957  # rgb(111, 57, 87)
+thorned_veil_4 = #61324C  # rgb(97, 50, 76)
+thorned_veil_5 = #532B41  # rgb(83, 43, 65)
+thorned_veil_6 = #452436  # rgb(69, 36, 54)
+thorned_veil_7 = #371D2B  # rgb(55, 29, 43)
+
+# water_of_life - revelation 22:1,17
+water_of_life_1 = #40BE96  # rgb(64, 190, 150)
+water_of_life_2 = #3AAB87  # rgb(58, 171, 135)
+water_of_life_3 = #349878  # rgb(52, 152, 120)
+water_of_life_4 = #2E8569  # rgb(46, 133, 105)
+water_of_life_5 = #28725A  # rgb(40, 114, 90)
+water_of_life_6 = #225F4B  # rgb(34, 95, 75)
+water_of_life_7 = #1C4C3C  # rgb(28, 76, 60)
+
+# azymos_bread - mathew 26:17,26
+broken_bread_1 = #C2AE93  # rgb(194, 174, 147)
+broken_bread_2 = #AF9D85  # rgb(175, 157, 133)
+broken_bread_3 = #9C8C78  # rgb(156, 140, 120)
+broken_bread_4 = #8A7C6B  # rgb(138, 124, 107)
+broken_bread_5 = #776C5E  # rgb(119, 108, 94)
+broken_bread_6 = #655D52  # rgb(101, 93, 82)
+broken_bread_7 = #524C45  # rgb(82, 76, 69)
