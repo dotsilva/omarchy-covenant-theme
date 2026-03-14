@@ -53,13 +53,13 @@ thorned_veil_6 = #452436  # rgb(69, 36, 54)
 thorned_veil_7 = #371D2B  # rgb(55, 29, 43)
 
 # water_of_life - revelation 22:1,17
-water_of_life_1 = #40BE96  # rgb(64, 190, 150)
-water_of_life_2 = #3AAB87  # rgb(58, 171, 135)
-water_of_life_3 = #349878  # rgb(52, 152, 120)
-water_of_life_4 = #2E8569  # rgb(46, 133, 105)
-water_of_life_5 = #28725A  # rgb(40, 114, 90)
-water_of_life_6 = #225F4B  # rgb(34, 95, 75)
-water_of_life_7 = #1C4C3C  # rgb(28, 76, 60)
+water_of_life_1 = #4AA893  # rgb(74, 168, 147)
+water_of_life_2 = #429583  # rgb(66, 149, 131)
+water_of_life_3 = #3A8273  # rgb(58, 130, 115)
+water_of_life_4 = #326F63  # rgb(50, 111, 99)
+water_of_life_5 = #2A5C54  # rgb(42, 92, 84)
+water_of_life_6 = #224944  # rgb(34, 73, 68)
+water_of_life_7 = #1B3735  # rgb(27, 55, 53)
 
 # azymos_bread - mathew 26:17,26
 broken_bread_1 = #C2AE93  # rgb(194, 174, 147)

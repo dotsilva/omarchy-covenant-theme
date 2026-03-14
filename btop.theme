@@ -12,11 +12,11 @@ theme[title]="#6C9FBF"
 
 # Highlight color for keyboard shortcuts
 # water_of_life_2 - Revelation 22:1,17
-theme[hi_fg]="#3AAB87"
+theme[hi_fg]="#4AA893
 
 # Background color of selected item in processes box
 # water_of_life_2 - Revelation 22:1,17
-theme[selected_bg]="#3AAB87"
+theme[selected_bg]="#4AA893"
 
 # Foreground color of selected item in processes box
 # darkness_6 - Matthew 27:45
@@ -28,7 +28,7 @@ theme[inactive_fg]="#484848"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 # water_of_life_2 - Revelation 22:1,17
-theme[proc_misc]="#3AAB87"
+theme[proc_misc]="#4AA893"
 
 # Cpu box outline color
 # darkness_1 - Matthew 27:45

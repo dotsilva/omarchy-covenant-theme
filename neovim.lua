@@ -26,8 +26,8 @@ return {
 					peach = "#DCAE3D", -- royal_sash_1 - Revelation 1:13
 					yellow = "#DCAE3D", -- royal_sash_1 - Revelation 1:13
 					green = "#838F46", -- gethsemane_oil_1 - Exodus 27:20; Mathew 26:36
-					teal = "#3AAB87", -- water_of_life_2 - Revelation 22:1,17
-					sky = "#3AAB87", -- water_of_life_2 - Revelation 22:1,17
+					teal = "#4AA893", -- water_of_life_2 - Revelation 22:1,17
+					sky = "#4AA893", -- water_of_life_2 - Revelation 22:1,17
 					lavender = "#6C9FBF", -- resurrection_morning_1 - Mark 16:2
 					sapphire = "#6C9FBF", -- resurrection_morning_1 - Mark 16:2
 					blue = "#6C9FBF", -- resurrection_morning_1 - Mark 16:2

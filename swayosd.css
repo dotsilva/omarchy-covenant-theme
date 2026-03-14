@@ -1,13 +1,13 @@
 /* darkness_6 - Matthew 27:45 */
 @define-color background-color #0C0C0C;
 /* water_of_life_2 - Revelation 22:1,17 */
-@define-color border-color #3AAB87;
+@define-color border-color #4AA893;
 /* water_of_life_2 - Revelation 22:1,17 */
-@define-color label #3AAB87;
+@define-color label #4AA893;
 /* image: resurrection_morning_1 - Mark 16:2 */
 @define-color image #6C9FBF;
 /* progress: water_of_life_2 - Revelation 22:1,17 */
-@define-color progress #3AAB87;
+@define-color progress #4AA893;
 
 
 /* 1. Force 3px border (Outranks the generic 'window' tag in style.css) */
