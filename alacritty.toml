@@ -20,6 +20,7 @@ magenta = "#8B476D" # thorned_veil_1 - Exodus 26:31; Matthew 27:51
 cyan = "#3AAB87"    # water_of_life_2 - Revelation 22:1,17
 white = "#C2AE93"   # broken_bread_1 - Matthew 26:17,26
 
+# Bright variant is bloat
 [colors.bright]
 black = "#484848"   # darkness_1 - Matthew 27:45
 red = "#B83E46"     # poured_wine_1 - Matthew 26:27-29
