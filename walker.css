@@ -1,10 +1,10 @@
-@define-color base #0C0C0C;
-@define-color text #C2AE93; /* FIXED: Was #0C0C0C. Now Beige so static tabs are visible */
-@define-color foreground #C2AE93;
-@define-color background #0C0C0C;
-@define-color border #3AAB87; /* Matched strictly to your Neovim Cyan */
-@define-color hover #3AAB87;
-@define-color selected-text #0C0C0C;
+@define-color base #0C0C0C; /* darkness_6 - Matthew 27:45 */
+@define-color text #C2AE93; /* broken_bread_1 - Matthew 26:17,26 */
+@define-color foreground #C2AE93; /* broken_bread_1 - Matthew 26:17,26 */
+@define-color background #0C0C0C; /* darkness_6 - Matthew 27:45 */
+@define-color border #3AAB87; /* water_of_life_2 - Revelation 22:1,17 */
+@define-color hover #3AAB87; /* water_of_life_2 - Revelation 22:1,17 */
+@define-color selected-text #0C0C0C; /* darkness_6 - Matthew 27:45 */
 
 window {
   /* keep default size, no background needed here */
