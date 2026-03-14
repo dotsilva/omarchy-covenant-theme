@@ -12,7 +12,7 @@ theme[title]="#6C9FBF"
 
 # Highlight color for keyboard shortcuts
 # water_of_life_2 - Revelation 22:1,17
-theme[hi_fg]="#4AA893"
+theme[hi_fg]="#8B476D"
 
 # Background color of selected item in processes box
 # water_of_life_2 - Revelation 22:1,17
