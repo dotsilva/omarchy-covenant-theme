@@ -7,7 +7,7 @@ theme[main_bg]="#0C0C0C"
 theme[main_fg]="#C2AE93"
 
 # Title color for boxes
-# resurrection_morning_1 - Mark 16:2
+# first_day_1 - Mark 16:2
 theme[title]="#6C9FBF"
 
 # Highlight color for keyboard shortcuts
@@ -51,7 +51,7 @@ theme[proc_box]="#484848"
 theme[div_line]="#484848"
 
 # Temperature graph colors
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[temp_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[temp_mid]="#DCAE3D"
@@ -59,7 +59,7 @@ theme[temp_mid]="#DCAE3D"
 theme[temp_end]="#B83E46"
 
 # CPU graph colors
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[cpu_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[cpu_mid]="#DCAE3D"
@@ -67,7 +67,7 @@ theme[cpu_mid]="#DCAE3D"
 theme[cpu_end]="#B83E46"
 
 # Mem/Disk free meter
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[free_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[free_mid]="#DCAE3D"
@@ -75,7 +75,7 @@ theme[free_mid]="#DCAE3D"
 theme[free_end]="#B83E46"
 
 # Mem/Disk cached meter
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[cached_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[cached_mid]="#DCAE3D"
@@ -83,7 +83,7 @@ theme[cached_mid]="#DCAE3D"
 theme[cached_end]="#B83E46"
 
 # Mem/Disk available meter
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[available_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[available_mid]="#DCAE3D"
@@ -91,7 +91,7 @@ theme[available_mid]="#DCAE3D"
 theme[available_end]="#B83E46"
 
 # Mem/Disk used meter
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[used_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[used_mid]="#DCAE3D"
@@ -99,7 +99,7 @@ theme[used_mid]="#DCAE3D"
 theme[used_end]="#B83E46"
 
 # Download graph colors
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[download_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[download_mid]="#DCAE3D"
@@ -107,7 +107,7 @@ theme[download_mid]="#DCAE3D"
 theme[download_end]="#B83E46"
 
 # Upload graph colors
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[upload_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[upload_mid]="#DCAE3D"
@@ -115,7 +115,7 @@ theme[upload_mid]="#DCAE3D"
 theme[upload_end]="#B83E46"
 
 # Process box color gradient for threads, mem and cpu usage
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 theme[process_start]="#838F46"
 # royal_sash_1 - Revelation 1:13
 theme[process_mid]="#DCAE3D"

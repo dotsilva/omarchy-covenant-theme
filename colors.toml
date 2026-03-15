@@ -15,11 +15,11 @@ selection_background = "#4AA893"
 color0 = "#484848"
 # poured_wine_1 - Matthew 26:27-29
 color1 = "#B83E46"
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 color2 = "#838F46"
 # royal_sash_1 - Revelation 1:13
 color3 = "#DCAE3D"
-# resurrection_morning_1 - Mark 16:2
+# first_day_1 - Mark 16:2
 color4 = "#6C9FBF"
 # thorned_veil_1 - Exodus 26:31; Matthew 27:51
 color5 = "#8B476D"
@@ -33,11 +33,11 @@ color7 = "#C2AE93"
 color8 = "#484848"
 # poured_wine_1 - Matthew 26:27-29
 color9 = "#B83E46"
-# gethsemane_oil_1 - Exodus 27:20; Matthew 26:36
+# gethsemane_1 - Exodus 27:20; Matthew 26:36
 color10 = "#838F46"
 # royal_sash_1 - Revelation 1:13
 color11 = "#DCAE3D"
-# resurrection_morning_1 - Mark 16:2
+# first_day_1 - Mark 16:2
 color12 = "#6C9FBF"
 # thorned_veil_1 - Exodus 26:31; Matthew 27:51
 color13 = "#8B476D"
