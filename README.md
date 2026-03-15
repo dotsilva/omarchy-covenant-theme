@@ -23,7 +23,7 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-covenant-theme.git
 An opinionated Omarchy theme featuring:
 **Bible verses as background**,
 **biblically inspired colors** and
-**ANSI 8 semantic colors logic**.
+**consistent semantic use of ANSI 8 colors**.
 
 ## Color semantics
 
@@ -52,4 +52,16 @@ An opinionated Omarchy theme featuring:
 * **Semantics:** Ephemeral neutral info; active focus; visual anchors; current user interaction.
 
 * **White (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
-* **Semantics:** Standard foreground color; neutral generic label.
+* **Semantics:** Standard foreground color; neutral generic labels.
+
+### colors
+
+![Covenant color palette](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extra/covenant-colors.png)
+
+If you like this color palette you can easily get it [here](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extra/covenant-colors.colors)
+
+> **Romans 11**
+>
+> <sup>36</sup>For of him, and through him, and unto him, are all things. To him be the glory for ever. Amen.
+>
+> <sub>*ASV*</sub>
