@@ -14,13 +14,13 @@ death till he come.
 ASV
 ```
 
-![Covenant theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-diatheke-theme/master/preview.png)
+![Covenant theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/preview.png)
 
 ```bash
 omarchy-theme-install https://github.com/dotsilva/omarchy-covenant-theme.git
 ```
 
-An opionionated omarchy theme featuring:
+An opinionated Omarchy theme featuring:
 **Bible verses as background**,
 **biblically inspired colors** and
 **ANSI 8 semantic colors logic**.
@@ -37,10 +37,10 @@ An opionionated omarchy theme featuring:
 * **Semantics:** Critical alerts; deletions; high priority; off/false.
 
 * **Green (`#838F46`) - `gethsemane_oil_1` (Exodus 27:20; Matthew 26:36)**
-* **Semantics:** Healthy/enabled states; aditions; positive feedback; confirmation; on/true.
+* **Semantics:** Healthy/enabled states; additions; positive feedback; confirmation; on/true.
 
 * **Yellow (`#DCAE3D`) - `royal_sash_1` (Revelation 1:13)**
-* **Semantics:** Broken, but no dead; alerts; attention; mid priority; transitionary states.
+* **Semantics:** Broken, but not dead; alerts; attention; mid priority; mid states.
 
 * **Blue (`#6C9FBF`) - `resurrection_morning_1` (Mark 16:2)**
 * **Semantics:** Static neutral information; non-ephemeral.
@@ -49,7 +49,7 @@ An opionionated omarchy theme featuring:
 * **Semantics:** Extra; wildcard.
 
 * **Cyan (`#4AA893`) - `water_of_life_2` (Revelation 22:1, 17)**
-* **Semantics:** Ephemeral neutral info; active focus; visual anchors; current user interaction; "live" (as in live stream)
+* **Semantics:** Ephemeral neutral info; active focus; visual anchors; current user interaction.
 
 * **White/Beige (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
 * **Semantics:** Standard foreground color; neutral generic label.
