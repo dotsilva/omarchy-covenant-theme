@@ -30,7 +30,7 @@ An opinionated Omarchy theme featuring:
 * **Background (`#0C0C0C`) - `darkness_6` (Matthew 27:45)**
 * **Semantics:** Background; foreground inside cyan selections.
 
-* **ANSI Black (`#484848`) - `darkness_1` (Matthew 27:45)**
+* **Black (`#484848`) - `darkness_1` (Matthew 27:45)**
 * **Semantics:** Passive background context; inactive structure.
 
 * **Red (`#B83E46`) - `poured_wine_1` (Matthew 26:27-29)**
@@ -51,5 +51,5 @@ An opinionated Omarchy theme featuring:
 * **Cyan (`#4AA893`) - `water_of_life_1` (Revelation 22:1, 17)**
 * **Semantics:** Ephemeral neutral info; active focus; visual anchors; current user interaction.
 
-* **White/Beige (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
+* **White (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
 * **Semantics:** Standard foreground color; neutral generic label.
