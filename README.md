@@ -1,18 +1,10 @@
 # Covenant
 
-```txt
-I Corinthians 11
-
-²³For I received of the Lord that which also I delivered unto you, that the Lord
-Jesus in the night in which he was betrayed took bread; ²⁴and when he had given
-thanks, he brake it, and said, This is my body, which is for you: this do in remembrance
-of me. ²⁵In like manner also the cup, after supper, saying, This cup is the new
-covenant in my blood: this do, as often as ye drink it, in remembrance of me.
-²⁶For as often as ye eat this bread, and drink the cup, ye proclaim the Lord’s
-death till he come.
-
-ASV
-```
+> **I Corinthians 11**
+>
+> <sup>23</sup>For I received of the Lord that which also I delivered unto you, that the Lord Jesus in the night in which he was betrayed took bread; <sup>24</sup>and when he had given thanks, he brake it, and said, This is my body, which is for you: this do in remembrance of me. <sup>25</sup>In like manner also the cup, after supper, saying, This cup is the new covenant in my blood: this do, as often as ye drink it, in remembrance of me. <sup>26</sup>For as often as ye eat this bread, and drink the cup, ye proclaim the Lord’s death till he come.
+>
+> <sub>*ASV*</sub>
 
 ![Covenant theme preview](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/preview.png)
 
@@ -56,9 +48,9 @@ An opinionated Omarchy theme featuring:
 
 ### colors
 
-![Covenant color palette](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extra/covenant-colors.png)
+![Covenant color palette](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.png)
 
-If you like this color palette you can easily get it [here](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extra/covenant-colors.colors)
+If you like this color palette you can easily get it [here](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.colors)
 
 > **Romans 11**
 >
