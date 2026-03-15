@@ -36,19 +36,19 @@ An opinionated Omarchy theme featuring:
 * **Red (`#B83E46`) - `poured_wine_1` (Matthew 26:27-29)**
 * **Semantics:** Critical alerts; deletions; high priority; off/false.
 
-* **Green (`#838F46`) - `gethsemane_oil_1` (Exodus 27:20; Matthew 26:36)**
+* **Green (`#838F46`) - `gethsemane_1` (Exodus 27:20; Matthew 26:36)**
 * **Semantics:** Healthy/enabled states; additions; positive feedback; confirmation; on/true.
 
 * **Yellow (`#DCAE3D`) - `royal_sash_1` (Revelation 1:13)**
 * **Semantics:** Broken, but not dead; alerts; attention; mid priority; mid states.
 
-* **Blue (`#6C9FBF`) - `resurrection_morning_1` (Mark 16:2)**
+* **Blue (`#6C9FBF`) - `first_day_1` (Mark 16:2)**
 * **Semantics:** Static neutral information; non-ephemeral.
 
 * **Magenta/Purple (`#8B476D`) - `thorned_veil_1` (Exodus 26:31; Matthew 27:51)**
 * **Semantics:** Extra; wildcard.
 
-* **Cyan (`#4AA893`) - `water_of_life_2` (Revelation 22:1, 17)**
+* **Cyan (`#4AA893`) - `water_of_life_1` (Revelation 22:1, 17)**
 * **Semantics:** Ephemeral neutral info; active focus; visual anchors; current user interaction.
 
 * **White/Beige (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
