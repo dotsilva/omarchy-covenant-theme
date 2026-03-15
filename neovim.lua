@@ -66,10 +66,10 @@ return {
 					BlinkCmpLabel = { fg = c.text }, -- Force unselected text to be fully readable
 					BlinkCmpLabelMatch = { fg = c.teal, bold = true }, -- Matching typed chars are Cyan
 
-					-- Word under cursor (Solid Cyan Block - Matches Visual)
-					LspReferenceText = { bg = c.teal, fg = c.base, bold = true },
-					LspReferenceRead = { bg = c.teal, fg = c.base, bold = true },
-					LspReferenceWrite = { bg = c.teal, fg = c.base, bold = true },
+					-- Word under cursor (Bold Cyan text, no background, so it does not merge with the cursor)
+					LspReferenceText = { fg = c.teal, bg = "NONE", bold = true, italic = true },
+					LspReferenceRead = { fg = c.teal, bg = "NONE", bold = true, italic = true },
+					LspReferenceWrite = { fg = c.teal, bg = "NONE", bold = true, italic = true },
 
 					-- Picker UI (Telescope/Snacks active prompts)
 					TelescopeMatching = { fg = c.teal, bold = true },
