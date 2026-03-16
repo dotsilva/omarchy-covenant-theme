@@ -19,8 +19,10 @@ An opinionated Omarchy theme featuring:
 
 ## Color semantics
 
+![Covenant color palette](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.png)
+
 * **Background (`#0C0C0C`) - `darkness_6` (Matthew 27:45)**
-* **Semantics:** Background; foreground inside cyan selections.
+**Semantics:** Background; foreground inside cyan selections.
 
 * **Black (`#484848`) - `darkness_1` (Matthew 27:45)**
 * **Semantics:** Passive background context; inactive structure.
@@ -45,8 +47,6 @@ An opinionated Omarchy theme featuring:
 
 * **White (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
 * **Semantics:** Standard foreground color; neutral generic labels.
-
-![Covenant color palette](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.png)
 
 If you like this color palette you can easily get it [here](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.colors)
 
