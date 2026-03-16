@@ -21,32 +21,32 @@ An opinionated Omarchy theme featuring:
 
 ![Covenant color palette](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.png)
 
-* **Background (`#0C0C0C`) - `darkness_6` (Matthew 27:45)**
-  **Semantics:** Background; foreground inside cyan selections.
+* **Background (`#0C0C0C` - `darkness_6` - Matthew 27:45)**
+  *Background; foreground inside cyan selections.*
 
 * **Black (`#484848`) - `darkness_1` (Matthew 27:45)**
-  **Semantics:** Passive background context; inactive structure.
+  *Passive background context; inactive structure.*
 
-* **Red (`#B83E46`) - `poured_wine_1` (Matthew 26:27-29)**
-  **Semantics:** Critical alerts; deletions; high priority; off/false.
+* **Red (`#B83E46`) - `poured_wine_1` - Matthew 26:27-29)**
+  *Critical alerts; deletions; high priority; off/false.*
 
-* **Green (`#838F46`) - `gethsemane_1` (Exodus 27:20; Matthew 26:36)**
-  **Semantics:** Healthy/enabled states; additions; positive feedback; confirmation; on/true.
+* **Green (`#838F46` - `gethsemane_1` - Exodus 27:20; Matthew 26:36)**
+  *Healthy/enabled states; additions; positive feedback; confirmation; on/true.*
 
-* **Yellow (`#DCAE3D`) - `royal_sash_1` (Revelation 1:13)**
-  **Semantics:** Broken, but not dead; alerts; attention; mid priority; mid states.
+* **Yellow (`#DCAE3D` - `royal_sash_1` - Revelation 1:13)**
+  *Broken, but not dead; alerts; attention; mid priority; mid states.*
 
-* **Blue (`#6C9FBF`) - `first_day_1` (Mark 16:2)**
-  **Semantics:** Static neutral information; non-ephemeral.
+* **Blue (`#6C9FBF` - `first_day_1` - Mark 16:2)**
+  *Static neutral information; non-ephemeral.*
 
-* **Magenta/Purple (`#8B476D`) - `thorned_veil_1` (Exodus 26:31; Matthew 27:51)**
-  **Semantics:** Extra; wildcard.
+* **Magenta/Purple (`#8B476D` - `thorned_veil_1` - Exodus 26:31; Matthew 27:51)**
+  *Extra; wildcard.*
 
-* **Cyan (`#4AA893`) - `water_of_life_1` (Revelation 22:1, 17)**
-  **Semantics:** Ephemeral neutral info; active focus; visual anchors; current user interaction.
+* **Cyan (`#4AA893` - `water_of_life_1` - Revelation 22:1, 17)**
+  *Ephemeral neutral info; active focus; visual anchors; current user interaction.*
 
-* **White (`#C2AE93`) - `broken_bread_1` (Matthew 26:17, 26)**
-  **Semantics:** Standard foreground color; neutral generic labels.
+* **White (`#C2AE93` - `broken_bread_1` - Matthew 26:17, 26)**
+  *Standard foreground color; neutral generic labels.*
 
 If you like this color palette you can easily get it [here](https://raw.githubusercontent.com/dotsilva/omarchy-covenant-theme/master/extras/covenant-colors.colors)
 
