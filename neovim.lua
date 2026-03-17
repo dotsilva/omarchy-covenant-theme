@@ -108,27 +108,82 @@ return {
 		},
 	},
 
+	-- 2. Noice UI
 	{
-		-- 1. Thick, Square Command Line
 		"folke/noice.nvim",
 		opts = {
+			presets = { lsp_doc_border = true },
 			views = {
-				cmdline_popup = {
-					border = {
-						style = { "┏", "━", "┓", "┃", "┛", "━", "┗", "┃" },
-					},
-				},
-				cmdline_popupmenu = {
-					border = {
-						style = { "┏", "━", "┓", "┃", "┛", "━", "┗", "┃" },
-					},
-				},
+				cmdline_popup = { border = { style = "single" } },
+				cmdline_popupmenu = { border = { style = "single" } },
+				popup = { border = { style = "single" } },
+				mini = { border = { style = "single" } },
+				hover = { border = { style = "single" } },
 			},
 		},
 	},
 
+	-- 3. Which-Key UI
+	{
+		"folke/which-key.nvim",
+		opts = {
+			win = { border = "single" },
+		},
+	},
+
+	-- 4. Mason UI
+	{
+		"mason-org/mason.nvim",
+		opts = {
+			ui = { border = "single" },
+		},
+	},
+
+	-- 5. Telescope UI (Optional)
+	{
+		"nvim-telescope/telescope.nvim",
+		optional = true,
+		opts = {
+			defaults = {
+				borderchars = { "─", "│", "─", "│", "┌", "┐", "┘", "└" },
+			},
+		},
+	},
+
+	-- 6. Blink.cmp UI (Optional)
+	{
+		"saghen/blink.cmp",
+		optional = true,
+		opts = {
+			completion = {
+				menu = { border = "single" },
+				documentation = { window = { border = "single" } },
+			},
+			signature = { window = { border = "single" } },
+		},
+	},
+
+	-- 7. Neo-tree UI (Optional)
+	{
+		"nvim-neo-tree/neo-tree.nvim",
+		optional = true,
+		opts = {
+			popup_border_style = "single",
+		},
+	},
+
+	-- 8. Native Neovim UI Overrides & LazyVim Core
 	{
 		"LazyVim/LazyVim",
 		opts = { colorscheme = "catppuccin" },
+		init = function()
+			-- Native Diagnostics
+			vim.diagnostic.config({
+				float = { border = "single" },
+			})
+
+			-- Native Floating Windows
+			vim.o.winborder = "single"
+		end,
 	},
 }
