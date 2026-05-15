@@ -19,12 +19,11 @@ window .box-wrapper {
   margin: 0 auto;
 }
 
-/* The Search Box follows the Neovim Noice Cmdline Rule */
 window .search-container,
 window .search {
-  background: @background; /* Dark background */
-  color: @text;            /* Beige readable text */
-  border: 2px solid @border; /* Cyan interaction border */
+  background: @background;
+  color: @text;
+  border: 3px solid @border;
   border-radius: 0px;
   padding: 8px 12px;
   margin: 4px 0;
@@ -32,18 +31,21 @@ window .search {
   font-weight: 500;
 }
 
-/* The Active Selection Rule (Cyan background, Dark text) */
-child:selected,
-child:hover {
-  background: @hover;
+/* Using .list forces this rule to override the system style.css */
+.list child:selected,
+.list child:hover,
+.list child:focus {
+  background: @border;
   color: @selected-text;
   border-radius: 0px;
 }
 
 /* Force text inside the selection to invert to Dark Base */
-child:selected .item-text,
-child:selected .item-subtext,
-child:hover .item-text,
-child:hover .item-subtext {
+.list child:selected .item-text,
+.list child:selected .item-subtext,
+.list child:hover .item-text,
+.list child:hover .item-subtext,
+.list child:focus .item-text,
+.list child:focus .item-subtext {
   color: @selected-text;
 }
